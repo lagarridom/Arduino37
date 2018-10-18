@@ -91,7 +91,7 @@ La placa Arduino Ethernet permite transferir datos entre ella misma
 (los cuales pueden ser obtenidos de algún sensor, por ejemplo) y cualquier otro
 dispositivo conectado a su misma red LAN
 ### Arduino Lilypad
-![](img/arduinoLilypaf.jpg)
+![](img/arduinoLilypad.jpg)
 
 
 La placa Arduino LilyPad está diseñada para ser cosida a material textil.
