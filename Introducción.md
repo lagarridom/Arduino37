@@ -57,7 +57,7 @@ de ámbito mundial.
 ![](img/placaArduino.jpg)
 ## Familia Arduino
 Existen distintas variantes de la placa Arduino, cada una especializada en trabajar dentro de circunstancias específicas. Además de las placas Arduino, también existen los denominados "shields". Un shield es una placa de circuito impreso que se colocaen la parte superior de una placa Arduino y se conecta a ella mediante un acoplamiento de pines. Su funciónes es ampliar y complementar las funcionalidades de la placa Arduino base.
-Una lista completa de las diferentes placas y shields disponibles junto con sus especificaciones se puede encontrar en ![Esta página](https://www.arduino.cc/en/Main/Products)
+Una lista completa de las diferentes placas y shields disponibles junto con sus especificaciones se puede encontrar en [esta página](https://www.arduino.cc/en/Main/Products).
 
 
 ![](img/famArduino.jpg)
