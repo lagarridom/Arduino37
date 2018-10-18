@@ -29,10 +29,10 @@ Se le llama software a todo software que respeta la libertad de los usuarios sob
 Con Arduino se pueden realizar multitud de proyectos de rango muy variado: desde robótica hasta domótica, pasando por monitorización de sensores ambientales, sistemas de navegación, telemática, etc.
 ![](img/dron.jpg)
 ![](img/medidor.jpg)
-![](https://howtomechatronics.com/wp-content/uploads/2018/09/DIY-Arduino-Robot-Arm-with-Smartphone-Control-768x432.jpg)
-![](https://howtomechatronics.com/wp-content/uploads/2017/11/Arduino-Robot-Car-Project.jpg)
-![](https://howtomechatronics.com/wp-content/uploads/2017/11/Arduino-Alarm-System-Project.jpg)
-![](https://howtomechatronics.com/wp-content/uploads/2018/06/DIY-Motorized-Camera-Slider-with-Pan-and-Tilt-Head-Arduino-Based-Project-Photo-768x432.jpg)
+![](img/brazo.jpg)
+![](img/coche.jpg)
+![](img/seguridad.jpg)
+![](img/camara.jpg)
 
 Video:
 https://www.youtube.com/watch?v=0XTcJ5-0u00

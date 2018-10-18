@@ -1,5 +1,5 @@
 # Arduino37
-![Arduino Logo](https://i0.wp.com/fearescaperoom.com/wp-content/uploads/2018/04/arduino-logo-363f5dda317309ae-512x512-e1523823814294.png?ssl=1)
+![Arduino Logo](img/logo.png)
 ## Temario
 * Sábado
   * Introducción
