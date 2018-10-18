@@ -130,6 +130,7 @@ protegidas mediante encriptación de tipo WEP o WPA2-Personal.
 
 
 Básicamente lo que hace es ofrecer un área de trabajo donde se pueden colocar los diferentes componentes electrónicos que necesitemos para montar nuestro proyecto.
+#### Arduino Motor Shield
 
 ![](img/motorShield.jpg)
 
