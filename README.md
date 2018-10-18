@@ -50,4 +50,4 @@
 * 1  ITR8102 (18$)
 * 1 Buzzer pequeño multitono (13$)
 
-http://www.kinetroni.com/
+[Tienda Kinetrónica](http://www.kinetroni.com/)
