@@ -63,6 +63,7 @@ Una lista completa de las diferentes placas y shields disponibles junto con sus 
 ![](img/famArduino.jpg)
 
 ### Placas
+
 #### Arduino UNO
 ![](img/arduinoUno.jpg)
 
@@ -109,5 +110,32 @@ La característica más destacable de esta placa es que a pesar de su tamaño
 funcionalidad que esta.
 
 ### Shields
+
+#### Arduino Ethernet Shield
+![](img/ethernetShield.jpg)
+
+
+Aporta la misma
+funcionalidad que la placa Arduino Ethernet pero en forma de shield
+complementario acoplado a la placa Arduino UNO.
+#### Arduino WiFi Shield
+![](img/wifiShield.jpg)
+
+
+Este shield está pensado para los que le quieren añadir a la placa Arduino
+UNO la capacidad de conectarse inalámbricamente a una red TCP/IP. Las redes a las que se puede conectar pueden ser abiertas, o bien estar
+protegidas mediante encriptación de tipo WEP o WPA2-Personal.
+#### Arduino Proto Shield
+![](img/protoShield.jpg)
+
+
+Básicamente lo que hace es ofrecer un área de trabajo donde se pueden colocar los diferentes componentes electrónicos que necesitemos para montar nuestro proyecto.
+
+![](img/motorShield.jpg)
+
+
+El shield Arduino Motor nos permite
+dominar la velocidad y sentido de giro de hasta dos motores DC de forma
+independiente o bien estas dos magnitudes de un motor paso a paso. 
 
 ## Software Arduino
