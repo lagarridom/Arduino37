@@ -56,25 +56,27 @@ de ámbito mundial.
 ## La placa Arduino
 ![](img/placaArduino.jpg)
 ## Familia Arduino
-Existen distintas variantes de la placa Arduino, cada una especializada en trabajar dentro de circunstancias específicas.
+Existen distintas variantes de la placa Arduino, cada una especializada en trabajar dentro de circunstancias específicas. Además de las placas Arduino, también existen los denominados "shields". Un shield es una placa de circuito impreso que se colocaen la parte superior de una placa Arduino y se conecta a ella mediante un acoplamiento de pines. Su funciónes es ampliar y complementar las funcionalidades de la placa Arduino base.
+Una lista completa de las diferentes placas y shields disponibles junto con sus especificaciones se puede encontrar en ![Esta página](https://www.arduino.cc/en/Main/Products)
 
 
 ![](img/famArduino.jpg)
 
-### Arduino UNO
+### Placas
+#### Arduino UNO
 ![](img/arduinoUno.jpg)
 
 
 Es el modelo de referencia de la plataforma Arduino y es el más usado y documentado de las plácas disponibles.
 Cuenta con 14 pines de entrada/salida digitales y 6 entradas analógicas.
-### Arduino Mega 2560
+#### Arduino Mega 2560
 ![](img/arduinoMega.jpg)
 
 
 Como características más
 destacables diremos que tiene 54 pines de entrada/salida digitales, 16 entradas analógicas y 4
 receptores/transmisores serie TTL-UART.
-### Arduino Mega ADK
+#### Arduino Mega ADK
 ![](img/arduinoADK.jpg)
 
 
@@ -83,14 +85,14 @@ puerto USB periférico (teléfonos móviles, cámaras de fotos o vídeo, teclado
 ratones, joysticks y mandos de diferentes videoconsolas, etc.)
 En concreto, la placa Arduino ADK está especialmente diseñada para
 interactuar con teléfonos móviles funcionando con el sistema Android. 
-### Arduino Ethernet
+#### Arduino Ethernet
 ![](img/arduinoEthernet.jpg)
 
 
 La placa Arduino Ethernet permite transferir datos entre ella misma
 (los cuales pueden ser obtenidos de algún sensor, por ejemplo) y cualquier otro
 dispositivo conectado a su misma red LAN
-### Arduino Lilypad
+#### Arduino Lilypad
 ![](img/arduinoLilypad.jpg)
 
 
@@ -98,12 +100,14 @@ La placa Arduino LilyPad está diseñada para ser cosida a material textil.
 Permite además conectarle (mediante hilos conductores) fuentes de alimentación,
 sensores y actuadores de forma que se puedan “llevar encima”, haciendo posible la
 creación de vestidos y ropa “inteligente”. 
-### Arduino Nano
+#### Arduino Nano
 ![](img/arduinoNano.jpg)
 
 
 La característica más destacable de esta placa es que a pesar de su tamaño
 (0,73 pulgadas de anchura por 1,70 de longitud), sigue ofreciendo el mismo número de salidas y entradas digitales y analógicas que la Arduino UNO y la misma
 funcionalidad que esta.
+
+### Shields
 
 ## Software Arduino
