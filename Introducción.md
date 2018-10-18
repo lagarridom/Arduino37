@@ -1,6 +1,7 @@
 # Introducción
 ![](img/logoArduinoB.png)
 
+
 Arduino es la mejor forma de introducirse a la programación de microcontroladores y a la computación física.
 La computación física es un acercamiento al diseño de la interacción computadora - humano que empieza considerando como los humanos se expresan de forma física.
 Las interfaces comunes para la interacción con las que cuentan las computadoras se limitan a un monitor, un teclado, un mouse, entre otros elementos. Con la computación física se toma como referencia el cuerpo humano y sus capacidades para rediseñar esas interfaces. Creando nuevas que puedan responder a lo que los humanos pueden hacer físicamente. Esta está basada en el uso de microcontroladores para procesar estas interacciones.
@@ -27,6 +28,8 @@ Se le llama software a todo software que respeta la libertad de los usuarios sob
 
 ## Qué podemos hacer con Arduino?
 Con Arduino se pueden realizar multitud de proyectos de rango muy variado: desde robótica hasta domótica, pasando por monitorización de sensores ambientales, sistemas de navegación, telemática, etc.
+
+
 ![](img/dron.jpg)
 ![](img/medidor.jpg)
 ![](img/brazo.jpg)
@@ -54,18 +57,27 @@ de ámbito mundial.
 ![](img/placaArduino.jpg)
 ## Familia Arduino
 Existen distintas variantes de la placa Arduino, cada una especializada en trabajar dentro de circunstancias específicas.
+
+
 ![](img/famArduino.jpg)
+
 ### Arduino UNO
 ![](img/arduinoUno.jpg)
+
+
 Es el modelo de referencia de la plataforma Arduino y es el más usado y documentado de las plácas disponibles.
 Cuenta con 14 pines de entrada/salida digitales y 6 entradas analógicas.
 ### Arduino Mega 2560
 ![](img/arduinoMega.jpg)
+
+
 Como características más
 destacables diremos que tiene 54 pines de entrada/salida digitales, 16 entradas analógicas y 4
 receptores/transmisores serie TTL-UART.
 ### Arduino Mega ADK
 ![](img/arduinoADK.jpg)
+
+
 La placa ADK se puede conectar cualquier dispositivo que tenga un
 puerto USB periférico (teléfonos móviles, cámaras de fotos o vídeo, teclados,
 ratones, joysticks y mandos de diferentes videoconsolas, etc.)
@@ -73,17 +85,23 @@ En concreto, la placa Arduino ADK está especialmente diseñada para
 interactuar con teléfonos móviles funcionando con el sistema Android. 
 ### Arduino Ethernet
 ![](img/arduinoEthernet.jpg)
+
+
 La placa Arduino Ethernet permite transferir datos entre ella misma
 (los cuales pueden ser obtenidos de algún sensor, por ejemplo) y cualquier otro
 dispositivo conectado a su misma red LAN
 ### Arduino Lilypad
 ![](img/arduinoLilypaf.jpg)
+
+
 La placa Arduino LilyPad está diseñada para ser cosida a material textil.
 Permite además conectarle (mediante hilos conductores) fuentes de alimentación,
 sensores y actuadores de forma que se puedan “llevar encima”, haciendo posible la
 creación de vestidos y ropa “inteligente”. 
 ### Arduino Nano
 ![](img/arduinoNano.jpg)
+
+
 La característica más destacable de esta placa es que a pesar de su tamaño
 (0,73 pulgadas de anchura por 1,70 de longitud), sigue ofreciendo el mismo número de salidas y entradas digitales y analógicas que la Arduino UNO y la misma
 funcionalidad que esta.
