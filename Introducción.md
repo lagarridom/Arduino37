@@ -55,6 +55,23 @@ haya llegado a ser lo que es actualmente: un proyecto de hardware y software lib
 de ámbito mundial. 
 ## La placa Arduino
 ![](img/placaArduino.jpg)
+![](img/ArduinoEsquema.jpg)
+
+En el corazón de cada placa Arduino se encuentra un microcontrolador Atmel. En el caso particular del Arduino UNO, es un ATmega328.
+
+Los microcontroladores cuentan con tres tipos de memorias.
+
+* Memoria Flash
+* Memoria SRAM
+* Memoria EEPROM
+
+La memoria flash es la memoria persistente donde se almacena de forma permanente el programa que ejecuta el microcontrolador.
+
+La memoria SRAM es la memoria volátil donde se almacenan los datos en un instante determinado del programa. Estos datos suelen tener un contenido variable a lo largo del tiempo de ejecución.
+
+La memoria EEPROM es memoria persistente donde se almacenan los datos que se desean que permanezcan una vez apagado o reiniciado el microcontrolador.
+
+Con respecto a la fuente de alimentación del arduino
 ## Familia Arduino
 Existen distintas variantes de la placa Arduino, cada una especializada en trabajar dentro de circunstancias específicas. Además de las placas Arduino, también existen los denominados "shields". Un shield es una placa de circuito impreso que se colocaen la parte superior de una placa Arduino y se conecta a ella mediante un acoplamiento de pines. Su funciónes es ampliar y complementar las funcionalidades de la placa Arduino base.
 Una lista completa de las diferentes placas y shields disponibles junto con sus especificaciones se puede encontrar en [esta página](https://www.arduino.cc/en/Main/Products).
