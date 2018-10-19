@@ -57,6 +57,7 @@ de ámbito mundial.
 ![](img/placaArduino.jpg)
 ![](img/ArduinoEsquema.png)
 
+### Microcontrolador
 En el corazón de cada placa Arduino se encuentra un microcontrolador Atmel. En el caso particular del Arduino UNO, es un ATmega328.
 
 Los microcontroladores cuentan con tres tipos de memorias.
@@ -71,7 +72,28 @@ La memoria SRAM es la memoria volátil donde se almacenan los datos en un instan
 
 La memoria EEPROM es memoria persistente donde se almacenan los datos que se desean que permanezcan una vez apagado o reiniciado el microcontrolador.
 
-Con respecto a la fuente de alimentación del arduino
+### Alimentación
+Con respecto a la fuente de alimentación del arduino del Arduino, existen diferentes metodos. Secuenta con un zócalo donde se puede enchufar una clavija de tipo "jack". También se puede conectar los bornes de una pila a los pines "Vin" y "Gnd" (positivo y negativo respectivamente). En ambos casos, la alimentación debe ser menor a los 12 volts, esto dependiendo de la placa Arduino en particular.
+De igual forma, la placa cuenta con un conector USB de tipo B que puede servir como fuente de alimentación, aunque su uso principal es para la transferencia de datos.
+
+### Entradas y salidas digitales
+
+### Entradas analógicas
+
+### Salidas analógicas (PWM)
+
+### RX y TX
+
+### Pin 13
+
+### Pin RESET
+
+### Reloj
+
+### Botón reset
+
+
+
 ## Familia Arduino
 Existen distintas variantes de la placa Arduino, cada una especializada en trabajar dentro de circunstancias específicas. Además de las placas Arduino, también existen los denominados "shields". Un shield es una placa de circuito impreso que se colocaen la parte superior de una placa Arduino y se conecta a ella mediante un acoplamiento de pines. Su funciónes es ampliar y complementar las funcionalidades de la placa Arduino base.
 Una lista completa de las diferentes placas y shields disponibles junto con sus especificaciones se puede encontrar en [esta página](https://www.arduino.cc/en/Main/Products).
