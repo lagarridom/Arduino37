@@ -55,7 +55,7 @@ haya llegado a ser lo que es actualmente: un proyecto de hardware y software lib
 de ámbito mundial. 
 ## La placa Arduino
 ![](img/placaArduino.jpg)
-![](img/ArduinoEsquema.jpg)
+![](img/ArduinoEsquema.png)
 
 En el corazón de cada placa Arduino se encuentra un microcontrolador Atmel. En el caso particular del Arduino UNO, es un ATmega328.
 
