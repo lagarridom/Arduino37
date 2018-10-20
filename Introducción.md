@@ -80,7 +80,7 @@ De igual forma, la placa cuenta con un conector USB de tipo B que puede servir c
 Este pin se puede aporta 5 volts regulados con una intensidad de corriente máxima de 40mA.
 
 ### 3,3V
-Este pin ofrece un voltaje de 3,3 volts y una intensidad de corriente máxima de 50mA.
+En este pin ofrece un voltaje de 3,3 volts y una intensidad de corriente máxima de 50mA.
 
 ### Vin
 Este pin puede ser usado para alimentar la placa desde una fuente de alimentación (por ejemplo, una pila de 9V).
@@ -198,3 +198,4 @@ dominar la velocidad y sentido de giro de hasta dos motores DC de forma
 independiente o bien estas dos magnitudes de un motor paso a paso. 
 
 ## Software Arduino
+
