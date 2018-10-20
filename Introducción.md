@@ -73,29 +73,48 @@ La memoria SRAM es la memoria volátil donde se almacenan los datos en un instan
 La memoria EEPROM es memoria persistente donde se almacenan los datos que se desean que permanezcan una vez apagado o reiniciado el microcontrolador.
 
 ### Alimentación
-Con respecto a la fuente de alimentación del arduino del Arduino, existen diferentes metodos. Secuenta con un zócalo donde se puede enchufar una clavija de tipo "jack". También se puede conectar los bornes de una pila a los pines "Vin" y "Gnd" (positivo y negativo respectivamente). En ambos casos, la alimentación debe ser menor a los 12 volts, esto dependiendo de la placa Arduino en particular.
+Con respecto a la fuente de alimentación del arduino del Arduino, existen diferentes métodos. Se cuenta con un zócalo donde se puede enchufar una clavija de tipo "jack". También se puede conectar los bornes de una pila a los pines "Vin" y "Gnd" (positivo y negativo respectivamente). En ambos casos, la alimentación debe ser menor a los 12 volts, esto dependiendo de la placa Arduino en particular.
 De igual forma, la placa cuenta con un conector USB de tipo B que puede servir como fuente de alimentación, aunque su uso principal es para la transferencia de datos.
 
-### Entradas y salidas digitales
+### 5V
+Este pin se puede aporta 5 volts regulados con una intensidad de corriente máxima de 40mA.
 
-### Entradas analógicas
+### 3,3V
+Este pin ofrece un voltaje de 3,3 volts y una intensidad de corriente máxima de 50mA.
 
-### Salidas analógicas (PWM)
+### Vin
+Este pin puede ser usado para alimentar la placa desde una fuente de alimentación (por ejemplo, una pila de 9V).
 
-### RX y TX
-
-### Pin 13
+### GND
+Los pines con la etiqueta GND están conectados a una tierra común. Es importante que todos nuestros circuitos estén conectados a una tierra común como referencia.
 
 ### Pin RESET
+Si el voltaje en este pin se establece en valor BAJO, el microcontrolador se reiniciará.
+
+### Entradas y salidas digitales
+Son los pines del 0 al 13, a estos también se les conoce como pines GPIO ("General Purpose Input/Output"). Estos pines funcionan a 5V y pueden proveer o recibir 40mA.
+
+### Entradas analógicas
+Son los pines etiquetados con una A seguidos de un número (A0, A1, A2, ...). Pueden recibir voltajes dentro de un rango continuo entre 0 y 5V.
+
+### Salidas analógicas (PWM)
+En la placa se cuentan con pines de salida digital que pueden "simular" un comportamiento analógico. Estos son los que tienen una etiqueta "PWM" (Pulse Width Modulation)
+
+### RX y TX
+Permiten que el microcontrolador pueda recibir directamente datos en serie (por el pin RX) o transmitirlos (por el pin TX). Los datos disponibles en el USB también lo estarán en estos pines.
+
+### Pin 13
+Este pin está conectado a un LED incrustado en la placa de forma que si el valor recibido en este pin es ALTO (HIGH), el LED se encenderá, si es BAJO (LOW), el LED se apagará.
 
 ### Reloj
+Este marca el ritmo de ejecución de las instrucciones en el microcontrolador, el ritmo de la lectura y escritura de los datos en memoria, el ritmo de adquisición de datos en los pines de entrada, el ritmo de envío de datos hacia los pines de salida y en general controla la frecuencia de trabajo del microcontrolador.
 
 ### Botón reset
-
+Al ser reiniciado manda un voltaje con valor BAJO al pin RESET lo que provoca que el microcontrolador se reinicie.
 
 
 ## Familia Arduino
-Existen distintas variantes de la placa Arduino, cada una especializada en trabajar dentro de circunstancias específicas. Además de las placas Arduino, también existen los denominados "shields". Un shield es una placa de circuito impreso que se colocaen la parte superior de una placa Arduino y se conecta a ella mediante un acoplamiento de pines. Su funciónes es ampliar y complementar las funcionalidades de la placa Arduino base.
+Existen distintas variantes de la placa Arduino, cada una especializada en trabajar dentro de circunstancias específicas. Además de las placas Arduino, también existen los denominados "shields". Un shield es una placa de circuito impreso que se colocaen la parte superior de una placa Arduino y se conecta a ella mediante un acoplamiento de pines. Su función es ampliar y complementar las funcionalidades de la placa Arduino base.
 Una lista completa de las diferentes placas y shields disponibles junto con sus especificaciones se puede encontrar en [esta página](https://www.arduino.cc/en/Main/Products).
 
 
