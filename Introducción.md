@@ -214,5 +214,36 @@ Las principales zonas que la conforman se pueden apreciar en la siguiente imáge
 La zona de editor de texto es la que más vamos a ocupar puesto que en ella se van a realizar los programas o scripts que van a ser ejecutados por la placa Arduino.
 El Area de mensajes y consola nos brinda información reelevante sobre el proceso de copilación y posibles errores que se presenten en la comunicación entre la placa y la computadora. De igual forma, aquí se van a mostrar los diferentes errores que se presenten en el programa al momento de su compilación.
 Los botones de acceso rápido nos van a permitir realizar acciones de forma sencilla, como lo es compilar el programa, abrir un programa y cargar un programa a la placa Arduino.
+Funcionamiento de los botones de acceso rápido:
+
 
 ![](img/Botones.png)
+
+
+Para poder realizar la conección correcta con la placa Arduino. Primero es necesario conectar la computadora con la placa por medio del cable USB proporcionado con la placa. Una vez hecho esto, es necesario especificar el puerto a usar en la IDE. El puerto normalmente es acompañado con las especificaciones de la placa, por lo que es sencillo identificar que puerto es.
+
+
+![](img/Puertos.png)
+
+
+A continuación es necesario especificar el modelo de la placa con la que estamos trabajando.
+
+
+![](img/ModeloPlaca.png)
+
+
+Una vez realizado esto podremos cargar nuestro primer programa a la placa. Para hacer esto, vamos a cargar un programa de muestra de los muchos que son descargados junto con la instalación de la IDE. Vamos a cargar el programa blink.
+
+
+![](img/blink.png)
+
+
+Finlmente, cargamos el programa a la placa.
+
+
+![](img/CargarBlink.png)
+
+
+De esta forma habremos cargado nuestro primer programa a la placa, ahora nuestra placa estará haciendo parpadear el led en el pin 13.
+
+![](img/ejecBlink.png)
