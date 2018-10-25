@@ -199,3 +199,5 @@ independiente o bien estas dos magnitudes de un motor paso a paso.
 
 ## Software Arduino
 
+La IDE de Arduino se puede descargar desde [esta página](https://www.arduino.cc/en/Main/Software). Una vez descargado, al abrir la IDE se desplegara una ventana como la siguiente:
+![](img/IDEArduino.png)
