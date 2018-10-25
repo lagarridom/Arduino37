@@ -214,3 +214,5 @@ Las principales zonas que la conforman se pueden apreciar en la siguiente imáge
 La zona de editor de texto es la que más vamos a ocupar puesto que en ella se van a realizar los programas o scripts que van a ser ejecutados por la placa Arduino.
 El Area de mensajes y consola nos brinda información reelevante sobre el proceso de copilación y posibles errores que se presenten en la comunicación entre la placa y la computadora. De igual forma, aquí se van a mostrar los diferentes errores que se presenten en el programa al momento de su compilación.
 Los botones de acceso rápido nos van a permitir realizar acciones de forma sencilla, como lo es compilar el programa, abrir un programa y cargar un programa a la placa Arduino.
+
+![](img/Botones.png)
