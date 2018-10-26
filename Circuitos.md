@@ -7,7 +7,7 @@
 
 ### Voltaje
 
-### Intensidad de corriented
+### Intensidad de corriente
 
 ### DC y AC
 
@@ -43,7 +43,7 @@ Se utilizan para conectar unos componentes con otros sobre la placa de pruebas(p
 ![](img/resistores.png)
 
 Los resistores son componentes que se oponen al paso de la energía eléctrica. Particularmente, estos se encargan de transformar la energía eléctrica en calor. Estos no tienen polaridad, por lo que es indiferente la posición en que se colocan.
-La resistencia de cada resistor va a determinar cuanta opocición va a haber al paso de la corriente. Los valores de las resistencias se indican mediante bandas de colores. Cada color se corresponde con un número, como se puede ver en la tabla inferior. 
+La resistencia de cada resistor va a determinar cuanta oposición va a haber al paso de la corriente. Los valores de las resistencias se indican mediante bandas de colores. Cada color se corresponde con un número, como se puede ver en la tabla inferior. 
 Cada
 resistencia tiene entre 4 o 5 bandas. En las resistencias con 4 bandas, las dos primeras
 bandas indican los dos primeros dígitos del valor de la resistencia, mientras que la tercera
@@ -58,10 +58,20 @@ especifica la tolerancia: en el ejemplo inferior, se puede leer un valor de resi
 
 ![](img/pot.png)
 
+Los potenciómetros son resistores con una resistencia variable y que cuenta con tres terminales. En las terminales extremas se conecta la señal de entrada y la tierra, la terminal central se puede usar como una salida de señal.
+
+![](img/pot2.png)
+
+
 ### Push-button
 
 ![](img/pushB.png)
 
-### Diodos (LEDs)
+Son interruptores momentáneos que únicamente permiten el paso de la corriente cuando son presionados. Son buenos para abrir o cerrar el paso a una señal.
+
+### LEDs
 
 ![](img/led.png)
+
+
+Son componentes que convierten la energía eléctrica en energía luminosa. Estos tienen polaridad, esto quiere decir que solo circula corriente a través de ellos en una sola dirección. La terminal más larga es el ánodo y esta se conectara a la alimentación (+), la terminal más corta es el cátodo y esta se conectara a la masa o GND (-).
