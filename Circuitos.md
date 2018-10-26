@@ -19,7 +19,7 @@ En los circuitos que se van a realizar en este curso,  se va a utilizar en su to
 
 ### Potencia eléctrica
 
-La potencia de un componente eléctrico/electrónco es la energía consumida por este en un segundo. En el caso de las fuentes de alimentación, la potencia es la energía aportada por esta en un segundo. La unidad de la potencia es el Watt [W].
+La potencia de un componente eléctrico/electrónico es la energía consumida por este en un segundo. En el caso de las fuentes de alimentación, la potencia es la energía aportada por esta en un segundo. La unidad de la potencia es el Watt [W].
 
 ### Señales digitales y señales analógicas
 
