@@ -1,5 +1,5 @@
 # Circuitos
-![](img/Circuitos.jpg)
+![](img/Circuitos.png)
 
 ## Conceptos Básicos
 
