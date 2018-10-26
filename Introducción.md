@@ -73,7 +73,7 @@ La memoria SRAM es la memoria volátil donde se almacenan los datos en un instan
 La memoria EEPROM es memoria persistente donde se almacenan los datos que se desean que permanezcan una vez apagado o reiniciado el microcontrolador.
 
 ### Alimentación
-Con respecto a la fuente de alimentación del arduino del Arduino, existen diferentes métodos. Se cuenta con un zócalo donde se puede enchufar una clavija de tipo "jack". También se puede conectar los bornes de una pila a los pines "Vin" y "Gnd" (positivo y negativo respectivamente). En ambos casos, la alimentación debe ser menor a los 12 volts, esto dependiendo de la placa Arduino en particular.
+Con respecto a la fuente de alimentación del Arduino, existen diferentes métodos. Se cuenta con un zócalo donde se puede enchufar una clavija de tipo "jack". También se puede conectar los bornes de una pila a los pines "Vin" y "Gnd" (positivo y negativo respectivamente). En ambos casos, la alimentación debe ser menor a los 12 volts, esto dependiendo de la placa Arduino en particular.
 De igual forma, la placa cuenta con un conector USB de tipo B que puede servir como fuente de alimentación, aunque su uso principal es para la transferencia de datos.
 
 ### 5V
@@ -126,7 +126,7 @@ Una lista completa de las diferentes placas y shields disponibles junto con sus 
 ![](img/arduinoUno.jpg)
 
 
-Es el modelo de referencia de la plataforma Arduino y es el más usado y documentado de las plácas disponibles.
+Es el modelo de referencia de la plataforma Arduino y es el más usado y documentado de las placas disponibles.
 Cuenta con 14 pines de entrada/salida digitales y 6 entradas analógicas.
 #### Arduino Mega 2560
 ![](img/arduinoMega.jpg)
@@ -212,7 +212,7 @@ Las principales zonas que la conforman se pueden apreciar en la siguiente imáge
 
 
 La zona de editor de texto es la que más vamos a ocupar puesto que en ella se van a realizar los programas o scripts que van a ser ejecutados por la placa Arduino.
-El Area de mensajes y consola nos brinda información reelevante sobre el proceso de copilación y posibles errores que se presenten en la comunicación entre la placa y la computadora. De igual forma, aquí se van a mostrar los diferentes errores que se presenten en el programa al momento de su compilación.
+El Area de mensajes y consola nos brinda información relevante sobre el proceso de compilación y posibles errores que se presenten en la comunicación entre la placa y la computadora. De igual forma, aquí se van a mostrar los diferentes errores que se presenten en el programa al momento de su compilación.
 Los botones de acceso rápido nos van a permitir realizar acciones de forma sencilla, como lo es compilar el programa, abrir un programa y cargar un programa a la placa Arduino.
 Funcionamiento de los botones de acceso rápido:
 
@@ -220,7 +220,7 @@ Funcionamiento de los botones de acceso rápido:
 ![](img/Botones.png)
 
 
-Para poder realizar la conección correcta con la placa Arduino. Primero es necesario conectar la computadora con la placa por medio del cable USB proporcionado con la placa. Una vez hecho esto, es necesario especificar el puerto a usar en la IDE. El puerto normalmente es acompañado con las especificaciones de la placa, por lo que es sencillo identificar que puerto es.
+Para poder realizar la conexión correcta con la placa Arduino. Primero es necesario conectar la computadora con la placa por medio del cable USB proporcionado con la placa. Una vez hecho esto, es necesario especificar el puerto a usar en la IDE. El puerto normalmente es acompañado con las especificaciones de la placa, por lo que es sencillo identificar que puerto es.
 
 
 ![](img/Puertos.png)
@@ -238,7 +238,7 @@ Una vez realizado esto podremos cargar nuestro primer programa a la placa. Para 
 ![](img/blink.png)
 
 
-Finlmente, cargamos el programa a la placa.
+Finalmente, cargamos el programa a la placa.
 
 
 ![](img/CargarBlink.png)
