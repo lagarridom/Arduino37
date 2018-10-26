@@ -26,7 +26,8 @@
   * Python
   * Matlab
 * Viernes
-  * ...
+  * Placas
+  * Raspberry Pi
 
 ## Evaluación
 * Proyecto - 50%
