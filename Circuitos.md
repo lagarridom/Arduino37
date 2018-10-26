@@ -11,11 +11,15 @@
 
 ### DC y AC
 
+Existen dos tipos fundamentales de circuitos, los circuitos de corriente continua (DC - Direct Current) y los circuitos de corriente alterna (AC - Alternating Current).
+La corriente continua es aquella en la que los electrones circulan a través del conductor siempre en la misma dirección.  La corriente alterna es aquella en la que la magnitud y la polaridad del voltaje (y por lo tanto, la de las intensidades también) varían cíclicamente. En la corriente alterna la dirección en la que circulan los electrones varía.
+En los circuitos que se van a realizar en este curso,  se va a utilizar en su totalidad la corriente continua.
+
 ### Resistencia Eléctrica
 
-### Ley de Ohm
-
 ### Potencia eléctrica
+
+La potencia de un componente eléctrico/electrónco es la energía consumida por este en un segundo. En el caso de las fuentes de alimentación, la potencia es la energía aportada por esta en un segundo. La unidad de la potencia es el Watt [W].
 
 ### Señales digitales y señales analógicas
 
