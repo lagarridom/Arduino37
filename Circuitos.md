@@ -30,10 +30,20 @@
 
 ### Cables puente
 
+![](img/cables.png)
+
 ### Resistores
+
+![](img/resistores.png)
 
 ### Potenciómetros
 
+![](img/pot.png)
+
 ### Push-button
 
-### Diodos
+![](img/pushB.png)
+
+### Diodos (LEDs)
+
+![](img/led.png)
