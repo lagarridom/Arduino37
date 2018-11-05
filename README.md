@@ -63,4 +63,5 @@
 * Esta lista podría extenderse dependiendo del proyecto
   * 2 Llantas de plásico (50$)
   * 3 Sensores QRD1114 (90$)
+
 [Tienda Kinetrónica](http://www.kinetroni.com/)
