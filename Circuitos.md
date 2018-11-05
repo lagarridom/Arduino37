@@ -9,7 +9,7 @@ Los electrones son cargas subatómicas que poseen cargas eléctricas negativas. 
 
 Cuando en un extremo(también llamado "polo") de un material conductor (alambre) aparece un exceso de electrones y en el otro polo aparece una carencia de estos, los electrones comenzarán a desplazarse de un polo a otro. A esta circulación de electrones por un material conductor se le llama "electricidad".
 
-![](img/corriente.png)
+![](img/corriente.jpg)
 
 ### Voltaje
 
@@ -32,7 +32,7 @@ La resistencia eléctrica es una propiedad de los objetos, esta es la capacidad 
 
 ### Analogía
 
-![](img/analgia.png)
+![](img/analogia.png)
 Podemos imaginar un acantilado con una pendiente por donde se deslizan unas rocas cuesta a bajo. Cuanto mayor sea la altura del acantilado, mayor energía tendrán las rocas para llegar hasta la parte inferior. La altura representa el voltaje de un circuito. El número de rocas que caen representa la corriente eléctrica. Las rocas al desplazarse por la pendiente del acantilado, chocan con los arbustos y árboles que se encuentran en este. Haciendo que estas disminuyan su velocidad. La cantidad de arbustos y árboles representa la resistencia en un circuito. Ofreciendo oposición al paso de la electricidad.
 
 
