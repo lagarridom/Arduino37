@@ -29,4 +29,5 @@
 28. ¿Cual es la diferencia entre señales digitales y analógicas?
 29. Investigar tres proyectos en donde se utilice uno o más arduinos y explicarlos de forma breve. (Drones, Brazo movil, Casa interligente,...)
 30. Ver el siguiente [video](https://www.youtube.com/watch?v=ulsv7uxDZoc) para entender de mejor forma como utilizar la protoboard.
+
 Para la clase del sábado va a ser necesario que traigan la placa Arduino, el cable que venía con ésta, la protoboard, los jumpers, las resistencias, los leds, los potenciómetros y los push-buttons.
