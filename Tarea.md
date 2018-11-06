@@ -11,4 +11,8 @@
 1. Escribe la historia de Arduino en dos parrafos.
 1. ¿Qué es la familia Arduino?
 1. ¿En que lenguaje está basado el de Arduino?
-1. Instalar la IDE de Arduino. En caso de usar Linux, otorgar los permisos de usuario con >sudo usermod -a -G dialout miusuario 
+1. Instalar la IDE de Arduino. En caso de usar Linux, otorgar los permisos de usuario.
+1. ¿Para que sirve void setup()?
+1. ¿Para que sirve void loop()?
+2. dfs
+3. 
