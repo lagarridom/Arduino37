@@ -9,3 +9,6 @@
 1. ¿Qué es un microcontrolador?
 1. ¿Qué es Arduino?
 1. Escribe la historia de Arduino en dos parrafos.
+1. ¿Qué es la familia Arduino?
+1. ¿En que lenguaje está basado el de Arduino?
+1. Instalar la IDE de Arduino. En caso de usar Linux, otorgar los permisos de usuario con >sudo usermod -a -G dialout miusuario 
