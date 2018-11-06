@@ -1,11 +1,11 @@
-¿Qué es un electrón?
-¿Qué es la electricidad?
-¿Qué es el voltaje?
-¿Qué es la intensidad de corriente?
-¿Cuál es la diferencia de corriente continua y corriente alterna?
-¿Qué es la resistencia eléctrica?
-¿Qué es un resistor?
-¿Qué es la potencia eléctrica?
-¿Qué es un microcontrolador?
-¿Qué es Arduino?
-Escribe la historia de Arduino en dos parrafos.
+1. ¿Qué es un electrón?
+1. ¿Qué es la electricidad?
+1. ¿Qué es el voltaje?
+1. ¿Qué es la intensidad de corriente?
+1. ¿Cuál es la diferencia de corriente continua y corriente alterna?
+1. ¿Qué es la resistencia eléctrica?
+1. ¿Qué es un resistor?
+1. ¿Qué es la potencia eléctrica?
+1. ¿Qué es un microcontrolador?
+1. ¿Qué es Arduino?
+1. Escribe la historia de Arduino en dos parrafos.
