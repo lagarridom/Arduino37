@@ -16,6 +16,13 @@
 15. ¿Qué es la familia Arduino?
 16. ¿En que lenguaje está basado el de Arduino?
 17. Instalar la IDE de Arduino. En caso de usar Linux, otorgar los permisos de usuario.
-18. ¿Para que sirve void setup()?
-19. ¿Para que sirve void loop()?
-20. ¿Qué es la temporización en Arduino?
+18. Realizar un boceto de la IDE e identificar las principales zonas que la conforman.
+19. ¿Para que sirve void setup()?
+20. ¿Para que sirve void loop()?
+21. Traer a la clase del sábado el programa de ejemplo 'blink' en sus Arduinos. En caso de conectar un led externo, tener cuidado de usar una resistencia apropiada para evitar que se queme.
+22. ¿Qué es la temporización en Arduino?
+23. ¿Qué es la comunicación serial?
+24. ¿Qué es el monitor serial de la IDE?
+25. ¿Cual es la diferencia entre señales digitales y analógicas?
+
+Para la clase del sábado va a ser necesario que traigan la placa Arduino, el cable que venía con ésta, la protoboard, los jumpers, las resistencias, los leds, los potenciómetros y los push-buttons.
