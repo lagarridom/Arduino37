@@ -10,9 +10,9 @@
 9. ¿Qué es un microcontrolador?
 10. ¿Qué familia de microcontroladores usa Arduino?
 11. ¿Qué es Arduino?
-12. Realizar un dibujo de un Arduino UNO y localizar en el los pines digitales, los pines analógicos, el microcotrolador, el boton Reset, el reloj, el regulador de voltaje, el conector USB y los pines de donde se puede obtener voltaje, así como los pines a los que se puede donde se puede conectar la tierra.
+12. Realizar un dibujo de un Arduino UNO y localizar en el los pines digitales, los pines analógicos, el microcotrolador, el botón Reset, el reloj, el regulador de voltaje, el conector USB y los pines de donde se puede obtener voltaje, así como los pines a los que se puede donde se puede conectar la tierra.
 13. Hacer una lista de diferentes formas que hay de quemar o dañar la placa Arduino.
-14. Escribe la historia de Arduino en dos parrafos.
+14. Escribe la historia de Arduino en dos párrafos.
 15. ¿Qué es la familia Arduino?
 16. Mencionar al menos tres placas Arduino diferentes a la UNO.
 17. ¿Qué es un shield?
@@ -27,7 +27,7 @@
 26. ¿Qué es la comunicación serial?
 27. ¿Qué es el monitor serial de la IDE?
 28. ¿Cual es la diferencia entre señales digitales y analógicas?
-29. Investigar tres proyectos en donde se utilice uno o más arduinos y explicarlos de forma breve. (Drones, Brazo movil, Casa interligente,...)
+29. Investigar tres proyectos en donde se utilice uno o más arduinos y explicarlos de forma breve. (Drones, Brazo móvil, Casa inteligente,...)
 30. Ver el siguiente [video](https://www.youtube.com/watch?v=ulsv7uxDZoc) para entender de mejor forma como utilizar la protoboard.
 
 Para la clase del sábado va a ser necesario que traigan la placa Arduino, el cable que venía con ésta, la protoboard, los jumpers, las resistencias, los leds, los potenciómetros y los push-buttons.
