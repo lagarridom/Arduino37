@@ -51,6 +51,7 @@
 * 1 Sensor QRD1114 (30$)
 * 1 ITR8102 (18$)
 * 1 LM35 (38$)
+* 1 Sensor Ultrasónico (50$)
 * 1 Buzzer pequeño multitono (13$)
 * 1 Pantalla LCD 16x2 CON pines soldados (100$)
 * 1 Servomotor sg90 1kg/cm (80\$) ó Futaba 3003 (160\$)
